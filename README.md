@@ -2,6 +2,8 @@
 ABOUT
 This project is showing an arcade style shooting app using Unity and C#
 
+Space Shooter is the initial game while Space Extended adds enemies, hazards, scrolling and more into the mix.
+
 INSTALLING
 
 Windows/PC/MAC:
